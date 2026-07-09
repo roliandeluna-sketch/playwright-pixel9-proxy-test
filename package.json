@@ -1,0 +1,12 @@
+{
+  "name": "playwright-pixel9-proxy-test",
+  "version": "1.0.0",
+  "description": "QA test with Playwright Pixel 9 device and proxy",
+  "main": "pixel9-test.js",
+  "scripts": {
+    "test": "node pixel9-test.js"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}
